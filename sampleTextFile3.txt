@@ -1,1 +1,1 @@
-this is a sample file created in git
+new sample copy. new summary of git hub
