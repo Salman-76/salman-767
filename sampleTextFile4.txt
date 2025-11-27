@@ -1,1 +1,3 @@
-new sample copy. new summary of git hub
+changes are made in branch file not in master file
+
+
